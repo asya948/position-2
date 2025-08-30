@@ -4,7 +4,7 @@
 
 **A responsive and clean web page built entirely with pure CSS.**
 
-[**➥ Live Demo**](https://asya948.github.io/position-1/)
+[**➥ Live Demo**](https://asya948.github.io/position-2/)
 
 </div>
 
