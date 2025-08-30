@@ -52,11 +52,27 @@
 }
 @media (max-width: 450px ) {
     .container-img{
-        width: 90%;
+        width: 100%;
+    
     }
 }
 @media (max-width: 400px ) {
     .container-img{
         width: 90%;
+    }
+    .text-p{
+        font-size: 15px;
+    }
+    .title-small{
+        font-size: 12px;
+    }
+    .title-large{
+        font-size: 20px;
+
+    }
+}
+@media (max-width: 365px ) {
+    .banner{
+        height: 50%;
     }
 }
