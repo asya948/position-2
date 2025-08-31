@@ -1,0 +1,60 @@
+.container-img{
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+  position: relative;
+  transform: scale(1.1) translate(0, 105px);
+}
+.my-shadow{
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  box-shadow: 100px 10px 0px 21px #BFA065;
+}
+.my-shadow:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100px;
+
+
+}
+.text-form{
+  width: 70%;
+  padding: 30px;
+}
+.banner {
+  width: 50%;
+  height: 400px;
+  background: #FAFAFA;
+  position: relative;
+  z-index: 1;
+  right:0 ;
+}
+.title-large{
+  font-size: 50px;
+  color: #C2A183;
+  text-transform: uppercase;
+}
+.btn{
+  background-color:#BFA065 ;
+  color: white;
+  border: none;
+  width: 50%;
+  height: 45px;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.title-small{
+  font-size: 30px;
+  color:#8C9592
+}
+.text-p{
+  font-size: 20px;
+  font-style: italic;
+}
+.py-2{
+  margin-top: 40px;
+}
